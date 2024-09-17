@@ -23,12 +23,12 @@ This project is a basic keylogger that records and logs keystrokes. It focuses o
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/raby02/PRODIGY_CS_04y.git
+   git clone https://github.com/raby02/PRODIGY_CS_04.git
    ```
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd your-repository
+   cd PRODIGY_CS_04
    ```
 3. **Install Required Packages:**
    Ensure you have pynput installed. You can install it using pip:
